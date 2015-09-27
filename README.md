@@ -1,0 +1,2 @@
+# vagrant-fun
+Vagrant playground
